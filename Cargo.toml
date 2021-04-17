@@ -1,0 +1,2 @@
+[workspace]
+members = ["clipper-sys", "clipper-rs"]
